@@ -5,7 +5,17 @@
     <link>https://jikdo.co/</link>
     <description>Recent content on Jikdo&#39;s  Manuscript</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jikdo.co/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2022 13:42:30 +0000</lastBuildDate><atom:link href="https://jikdo.co/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JT 1 Prologue</title>
+      <link>https://jikdo.co/posts/jt-1-prologue/</link>
+      <pubDate>Wed, 28 Dec 2022 13:42:30 +0000</pubDate>
+      
+      <guid>https://jikdo.co/posts/jt-1-prologue/</guid>
+      <description>Introduction I will write an introducion about the it here or maybe walk you through how i rebuilt redis. regroup</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://jikdo.co/about/</link>
