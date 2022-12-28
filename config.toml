@@ -1,0 +1,34 @@
+baseURL = 'https://jikdo.co/'
+languageCode = 'en-us'
+title = "Jikdo's  Manuscript"
+theme = 'paper'
+
+[params]
+    color = 'linen'
+
+    twitter = 'jikdo_'
+    github = 'jikdo'
+    rss = true
+
+    avatar = 'https://i.postimg.cc/d3gVSV0D/0169d96e-ced3-406f-9c4a-efa762ddeda5.jpg'
+    name = 'Jikdo Takehiro'
+    bio = 'Computer Programmer'
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
