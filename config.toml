@@ -1,4 +1,4 @@
-baseURL = 'https://jikdo.github.io/'
+baseURL = 'https://jikdo.co/'
 languageCode = 'en-us'
 title = "Jikdo's  Manuscript"
 theme = 'paper'
