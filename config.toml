@@ -6,7 +6,7 @@ theme = 'paper'
 [params]
     color = 'linen'
 
-    twitter = 'jikdo_'
+    twitter = '0xjikdo'
     github = 'jikdo'
     rss = true
 
